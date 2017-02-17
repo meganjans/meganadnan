@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 
 <html>
+<head>
+<style>
 ul {
     list-style-type: none;
     margin: 0;
@@ -20,7 +22,7 @@ li a:hover {
     background-color: #555;
     color: white;
 }
-<head>
+</style>
 <title>Megan and Adnan's Dot Com</title>
 </head>
 <body background="https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png">
