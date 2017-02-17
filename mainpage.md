@@ -24,7 +24,7 @@ A thing but not Facebook official. Exploring thee literature nd culture.
 <p>
 Welcome to the host of the most twisted minds on th interweb
 </p>
-<div class="boxed>
+<div class="boxed">
 Home
 </div>
 </body>
