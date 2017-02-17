@@ -14,12 +14,14 @@
 A thing but not Facebook official. Exploring thee literature nd culture.
 </p>
 <br>
-<p>
 <img src="http://bestanimations.com/Books/ipad-as-book-turning-pages-animated-gif.gif" height="150px">
 <img src="http://bestanimations.com/Earth&Space/Earth/earth-spinning-rotating-animation-14.gif" height="150px">
 <img src="https://img.clipartfest.com/425b3ce336ccef4caecc0babff60f36c_people-trinity-renewal-dancing-man-clipart-gif_205-207.gif" height="150px">
+<p stye="float:right">
 This man has realized the absurdity of life and yet, unwilling to end his life, he has returned to the world of appearances and continues to dance. What else can anyone do?
 </p>
+<p>
 <strong><i><font size="+2">"I'm sorry, but most of us read the Diary of Anne Frank in the sixth grade, and the fact that Jeff Mangum is obsessed with it now only proves his childish intellect."</font></strong></i>
+</p>
 </body>
 </html> 
