@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<style>
+<style media="screen" type="text/css">
 ul {
     list-style-type: none;
     margin: 0;
