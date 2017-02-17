@@ -2,6 +2,11 @@
 
 <html>
 <head>
+<style>
+.boxed {
+  border: 1px solid green ;
+}
+</style>
 <title>Megan and Adnan's Dot Com</title>
 </head>
 <body background="https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png">
@@ -22,7 +27,7 @@ A thing but not Facebook official. Exploring thee literature nd culture.
 <strong><i><font size="+2">"I'm sorry, but most of us read the Diary of Anne Frank in the sixth grade, and the fact that Jeff Mangum is obsessed with it now only proves his childish intellect."</font></strong></i>
 </p>
 <p>
-Welcome to the host of the most twisted minds on th interweb
+<font size="+1">welcome to the host of the most twisted minds on th interweb</font>
 </p>
 <div class="boxed">
 Home
