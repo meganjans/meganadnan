@@ -2,27 +2,6 @@
 
 <html>
 <head>
-<style media="screen" type="text/css">
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-}
-
-li a {
-    display: block;
-    color: white;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #555;
-    color: white;
-}
-</style>
 <title>Megan and Adnan's Dot Com</title>
 </head>
 <body background="https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png">
