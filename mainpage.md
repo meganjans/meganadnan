@@ -28,6 +28,10 @@ A thing but not Facebook official. Exploring thee literature nd culture.
 <tr>
 <td>Home</td>
 <td>About</td>
+<td>Music</td>
+<td>Books</td>
+<td>Movies</td>
+<td>Etc</td>
 </tr>
 </table>
 </body>
