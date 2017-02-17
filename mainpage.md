@@ -2,11 +2,6 @@
 
 <html>
 <head>
-<style>
-.boxed {
-  border: 1px solid green ;
-}
-</style>
 <title>Megan and Adnan's Dot Com</title>
 </head>
 <body background="https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png">
@@ -29,8 +24,6 @@ A thing but not Facebook official. Exploring thee literature nd culture.
 <p>
 <font size="+1">welcome to the host of the most twisted minds on th interweb</font>
 </p>
-<div class="boxed">
-Home
-</div>
+
 </body>
 </html> 
