@@ -24,6 +24,11 @@ A thing but not Facebook official. Exploring thee literature nd culture.
 <p>
 <font size="+1">welcome to the host of the most twisted minds on th interweb</font>
 </p>
-
+<table border="5" align="center">
+<tr>
+<td>Home</td>
+<td>About</td>
+</tr>
+</table>
 </body>
 </html> 
